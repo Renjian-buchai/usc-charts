@@ -1,0 +1,16 @@
+ALONE DANCER - Yooh
+presented by PKUMUGER
+20220321 V1.0
+
+[NOV 04]
+charted by Spitlight
+[ADV 11]
+charted by Spitlight
+[EXH 18]
+charted by Spitlight
+
+-VERSION HISTORY-
+2021.11.19 V1.0
+add [EXH 18]
+add [ADV 11]
+add [NOV 04]

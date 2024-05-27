@@ -1,0 +1,32 @@
+	elseif time > 158735 and time < 158914 then 
+		move_note(s.f1, Ln.l, 159985, 100)
+		move_note(s.f2, Ln.r, 159985, 100)
+		
+	elseif time > 158914 and time < 159092 then 	
+		move_note(s.f3, Ln.l, 159807, 100)
+		move_note(s.f4, Ln.r, 159807, 100)
+	
+	elseif time > 159092 and time < 159271 then 	
+		move_note(s.f5, Ln.l, 159628, 100)
+		move_note(s.f6, Ln.r, 159628, 100)
+	
+	elseif time > 159271 and time < 159449 then 	
+		move_note(s.f7, Ln.l, 159449, 100)
+		move_note(s.f8, Ln.r, 159449, 100)
+	
+	elseif time > 159449 and time < 159628 then 	
+		move_note(s.f9, Ln.l, 159271, 100)
+		move_note(s.f10, Ln.r, 159271, 100)
+	
+	elseif time > 159628 and time < 159807 then 	
+		move_note(s.f11, Ln.l, 159092, 100)
+		move_note(s.f12, Ln.r, 159092, 100)
+	
+	elseif time > 159807 and time < 159985 then 	
+		move_note(s.f13, Ln.l, 158914, 100)
+		move_note(s.f14, Ln.r, 158914, 100)
+	
+	elseif time > 159985 then 	
+		move_note(s.f15, Ln.l, 158735, 100)
+		move_note(s.f16, Ln.r, 158735, 100)
+	end

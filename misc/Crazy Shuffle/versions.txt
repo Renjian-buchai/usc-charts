@@ -1,0 +1,22 @@
+Crazy Shuffle - Yooh
+Crazy Shuffle(C-show Remix) - Yooh, C-show
+presented by PKUMUGER
+20220620 V1.5
+
+[NOV 02]
+charted by Spitlight
+[ADV 09]
+charted by Spitlight
+[EXH 17]
+charted by Spitlight
+[VVD 18]
+charted by Spitlight
+
+-VERSION HISTORY-
+2021.03.19 V1.0
+add [EXH 17]
+add [ADV 09]
+add [NOV 02]
+
+2021.12.16 V1.5
+add [VVD 18]
