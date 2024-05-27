@@ -1,0 +1,40 @@
+四月の雨 -cubesato
+presented by PKUMUGER
+20211022 V1.3
+
+[NOV 04]
+charted by Flasthond
+[ADV 11]
+charted by Flasthond
+[EXH 16]
+charted by Flasthond
+[MXM 18]
+charted by Flasthond
+[######]
+charted by #########
+
+-VERSION HISTORY-
+20210504 V0.1
+add [MXM 18]
+
+20210507 V0.2
+adjust [MXM 18]
+
+20210508 V0.3
+adjust [MXM 18]
+
+20210521 V1.0
+add [EXH 16]
+add [######]
+
+20210523 V1.1
+add [NOV 03]
+add [ADV 11]
+add [######]
+
+20210524 V1.2
+adjust [NOV 03 -> NOV 04]
+adjust [ADV 11]
+
+20211022 V1.3
+adjust [######]

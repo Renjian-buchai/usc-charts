@@ -1,0 +1,29 @@
+高気圧ねこロック - 小野隊長とJimmy親分
+presented by PKUMUGER
+20220201 V1.2
+
+[NOV 03]
+charted by Flasthond
+[ADV 11]
+charted by Flasthond
+[EXH 17]
+charted by Flasthond
+
+-VERSION HISTORY-
+20211226 V0.1
+add [EXH 17]
+
+20211229 V0.2
+add [ADV 11]
+
+20220107 V1.0
+add camera
+add [NOV 03]
+
+20220201 V1.1
+adjust [EXH 17]
+
+20220320 V1.2
+adjust camera
+adjust [ADV 11]
+

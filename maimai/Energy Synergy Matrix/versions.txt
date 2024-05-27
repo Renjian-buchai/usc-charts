@@ -1,0 +1,25 @@
+Energy Synergy Matrix - Tanchiky
+presented by PKUMUGER
+20210815 V2.1
+
+[NOV 07]
+charted by Flasthond
+[ADV 13]
+charted by Flasthond
+[EXH 18]
+charted by ELENCE
+Special thanks to Spitlight for adding sound effects in EXH chart.
+
+-VERSION HISTORY-
+20191115 V1.0
+add [NOV 05]
+add [ADV 11]
+add [EXH 18]
+
+20210809 V2.0
+adjust [NOV 05 -> NOV 07]
+adjust [ADV 11 -> ADV 13]
+adjust [EXH 18]
+
+20210815 V2.1
+adjust [ADV 13]
