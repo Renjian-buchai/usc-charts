@@ -1,0 +1,15 @@
+Black or White - Yunosuke
+20240104 V1.0
+
+[NOV 05]
+charted by Spitlight
+[ADV 11]
+charted by Spitlight
+[EXH 17]
+charted by Spitlight
+
+-VERSION HISTORY-
+2023.01.04 V1.0
+add [EXH 17]
+add [ADV 11]
+add [NOV 05]

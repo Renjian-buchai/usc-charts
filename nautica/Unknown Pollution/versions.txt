@@ -1,0 +1,15 @@
+Unknown Pollution - 工藤吉三
+20240426 V1.0
+
+[NOV 04]
+charted by Spitlight
+[ADV 11]
+charted by Spitlight
+[EXH 17]
+charted by Spitlight
+
+-VERSION HISTORY-
+2024.04.26 V1.0
+add [EXH 17]
+add [ADV 11]
+add [NOV 04]

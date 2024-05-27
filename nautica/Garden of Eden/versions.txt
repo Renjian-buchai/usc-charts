@@ -1,0 +1,15 @@
+Garden of Eden - aran feat. Kanae Asaba
+20220910 V1.0
+
+[NOV 02]
+charted by Spitlight
+[ADV 08]
+charted by Spitlight
+[EXH 15]
+charted by Spitlight
+
+-VERSION HISTORY-
+2023.05.14 V1.0
+add [EXH 15]
+add [ADV 08]
+add [NOV 02]

@@ -1,0 +1,15 @@
+say PaPa -ZELKOKO ver.- - ZELKOKO
+20240214 V1.0
+
+[NOV 03]
+charted by Spitlight
+[ADV 10]
+charted by Spitlight
+[EXH 16]
+charted by Spitlight
+
+-VERSION HISTORY-
+2024.02.14 V1.0
+add [EXH 16]
+add [ADV 10]
+add [NOV 03]

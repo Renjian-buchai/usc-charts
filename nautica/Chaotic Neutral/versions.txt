@@ -1,0 +1,18 @@
+Chaotic Neutral - aran
+20231020 V1.0
+
+[NOV 06]
+charted by Cyana & Spitlight
+[ADV 12]
+charted by Cyana & Spitlight
+[EXH 17]
+charted by Spitlight
+[MXM 19]
+charted by Spitlight
+
+-VERSION HISTORY-
+2023.10.20 V1.0
+add [MXM 19]
+add [EXH 17]
+add [ADV 12]
+add [NOV 06]
