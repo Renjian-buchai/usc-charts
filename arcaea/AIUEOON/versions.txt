@@ -1,0 +1,26 @@
+AI[UE]OON - MYUKKE.
+presented by PKUMUGER
+20210601 V1.1
+
+[NOV 05]
+charted by Flasthond
+[ADV 12]
+charted by Flasthond
+[EXH 17]
+charted by Flasthond
+Special thanks to Spitlight for adjusting laser objects and laser sound effects
+
+-VERSION HISTORY-
+20200610 V0.1
+add [EXH 17]
+
+20200922 V1.0
+add [NOV 05]
+add [ADV 11]
+
+20210601 V1.1
+adjust [NOV 05]
+adjust [ADV 11 -> 12]
+
+20210703 V1.2
+adjust [ADV 12]

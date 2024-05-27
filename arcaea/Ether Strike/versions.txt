@@ -1,0 +1,23 @@
+Ether Strike - Akira Complex
+presented by PKUMUGER
+20210917 V1.1
+
+[NOV 06]
+charted by Spitlight
+[ADV 14]
+charted by Spitlight
+[EXH 17]
+charted by Spitlight
+[MXM 19]
+charted by Spitlight
+
+-VERSION HISTORY-
+2021.08.26 V1.0
+add [MXM 19]
+add [EXH 17]
+add [ADV 14]
+add [NOV 06]
+
+2021.09.17 V1.1
+adjust [ADV 14]
+adjust [MXM 19]

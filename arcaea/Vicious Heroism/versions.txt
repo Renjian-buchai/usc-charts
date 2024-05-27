@@ -1,0 +1,22 @@
+Vicious Heroism - Kobaryo
+presented by PKUMUGER
+20240128 V1.0
+
+[NOV 07]
+charted by Spitlight
+[ADV 15]
+charted by Spitlight
+[EXH 18]
+charted by Spitlight
+[EXH 20]
+charted by Singular Photon
+
+-VERSION HISTORY-
+2022.07.13 V1.0
+add [MXM 20]
+add [EXH 18]
+add [ADV 15]
+add [NOV 07]
+
+2024.01.28 V1.1
+modify [MXM 20]

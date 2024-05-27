@@ -1,0 +1,24 @@
+THE ULTIMACY - aran vs. Massive New Krew
+presented by PKUMUGER
+20210703 V1.1
+
+[NOV 05]
+charted by Spitlight
+[ADV 10]
+charted by Spitlight
+[EXH 15]
+charted by Spitlight
+[MXM 18]
+charted by Spitlight
+
+-VERSION HISTORY-
+2021.07.01 V1.0
+add [EXH 18]
+add [ADV 13]
+add [NOV 06]
+
+2021.07.03 V1.1 
+move [EXH 18->MXM 18]
+adjust [NOV 06->NOV 05]
+adjust [ADV 13->EXH 15]
+add [ADV 10]

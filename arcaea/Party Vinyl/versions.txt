@@ -1,0 +1,31 @@
+Party Vinyl - モリモリあつし
+presented by PKUMUGER
+20210511 V2.2
+
+[NOV 06]
+charted by Flasthond
+[ADV 13]
+charted by Flasthond
+[EXH 18]
+charted by Flasthond
+
+-VERSION HISTORY-
+201905024 V0.1
+add [EXH 18]
+
+20191025 V1.0
+add [NOV 03]
+add [ADV 11]
+adjust [EXH 18]
+
+20210507 V2.0
+adjust [NOV 03 -> NOV 05]
+adjust [ADV 11 -> ADV 13]
+adjust [EXH 18]
+
+20210508 V2.1
+adjust [EXH 18]
+
+20210511 V2.2
+adjust [NOV 05 -> NOV 06]
+adjust [ADV 13]
